@@ -3,8 +3,8 @@ import pandas as pd
 import datetime as dt
 import smtplib
 import random
-my_email="meghnaperuri222@gmail.com"
-password="awjqsxdrmduedxus"
+my_email=""
+password=""
 
 # 1. Update the birthdays.csv
 df=pd.read_csv("birthdays.csv")
